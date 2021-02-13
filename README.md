@@ -38,7 +38,10 @@ _Same code but different output because of the probabilities._
 ![Channel Shuff](https://github.com/abdullahbas/Data-Augmentation/blob/main/augmented2.png?raw=true)
 
 ##
+# Original Images
 
+![Tensorflow](https://github.com/abdullahbas/Data-Augmentation/blob/main/TFOrig.png?raw=true)
+#
 # Using Tensorflow 
 
 _Tensorflow has tf.image  function that can be used for augmentations._
@@ -52,6 +55,9 @@ _Tensorflow has tf.image  function that can be used for augmentations._
 _On training you can consider these images as epochs. As you can see, although you have same original image you will end up with completely different images._
 
 ![Tensorflow 2 ](https://github.com/abdullahbas/Data-Augmentation/blob/main/TFAugmented2.png?raw=true)
+
+
+
 
 
 
