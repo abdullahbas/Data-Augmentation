@@ -1,4 +1,5 @@
-﻿# Here I showed augmentation  of images with and without bounding boxes using PyTorch, Tensorflow, Albumentations and Imgaug. Enjoy !
+﻿# Here I showed augmentation  of images with and without bounding boxes using PyTorch, Tensorflow, Albumentations and Imgaug. 
+ # Enjoy !
 
 Augmentation is a very effective method to make your method more robust.  As a matter of fact if you try to create models that Works quite well you should consider to use data augmentation. 
 #
