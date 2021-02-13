@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>7-equus_quagga_burchellii_-_etosha-2c_2014_jpg.rf.178ebab26ad44b41722068eb8e1463fa.jpg</filename>
+	<path>7-equus_quagga_burchellii_-_etosha-2c_2014_jpg.rf.178ebab26ad44b41722068eb8e1463fa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>390</xmax>
+			<ymin>49</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>17-ss-bird_honeycreeper_jpg.rf.7172aefd79293423945f63f05747f470.jpg</filename>
+	<path>17-ss-bird_honeycreeper_jpg.rf.7172aefd79293423945f63f05747f470.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>304</xmax>
+			<ymin>16</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

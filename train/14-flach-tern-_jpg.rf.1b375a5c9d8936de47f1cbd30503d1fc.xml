@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>14-flach-tern-_jpg.rf.1b375a5c9d8936de47f1cbd30503d1fc.jpg</filename>
+	<path>14-flach-tern-_jpg.rf.1b375a5c9d8936de47f1cbd30503d1fc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>400</xmax>
+			<ymin>56</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>14-grevy-e2-80-99s-zebra-portrait_jpg.rf.cb8ecc5e89d8e0295358ecbc63dd0c15.jpg</filename>
+	<path>14-grevy-e2-80-99s-zebra-portrait_jpg.rf.cb8ecc5e89d8e0295358ecbc63dd0c15.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>263</xmax>
+			<ymin>54</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

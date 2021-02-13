@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>19-zebra_jpg.rf.0fbd72cb93a40a831debc493ea384f42.jpg</filename>
+	<path>19-zebra_jpg.rf.0fbd72cb93a40a831debc493ea384f42.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>149</xmin>
+			<xmax>349</xmax>
+			<ymin>83</ymin>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
