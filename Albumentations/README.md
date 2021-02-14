@@ -18,6 +18,12 @@ _Ok. Let's see what we got.Left one is the augmented (I know you are not stupid 
 
 ![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/0.png?raw=true)
 #
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/23.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/21.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/14.png?raw=true)
+#
 ![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/1.png?raw=true)
 #
 ![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/2.png?raw=true)
