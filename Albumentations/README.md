@@ -1,1 +1,47 @@
-﻿#Here I showed augmentation  of images with and without bounding boxes using PyTorch, Tensorflow, Albumentations and Imgaug. Enjoy !Augmentation is a very effective method to make your method more robust.  As a matter of fact if you try to create models that Works quite well you should consider to use data augmentation. #First  install all of the requirements.******`pip install -r requirements.txt`#*****_"Any fool can know. The point is to understand." Albert Einstein_********** ## Using imgaug_Actually top left one the original one but I set titles of all images according to their augmentation. I automated the process and I told myself if I set probability  0 for fliplr it will return original image. Sorry I am too lazy to code if else for naming. ![Rotate](https://github.com/abdullahbas/Data-Augmentation/blob/main/augmented.png?raw=true)### Using imgaug 2 Same code but different output because of the probabilities..![Channel Shuff](https://github.com/abdullahbas/Data-Augmentation/blob/main/augmented2.png?raw=true)#
+# Albumentations the "BEST"... I guess.
+
+***
+**_"Any fool can know. The point is to understand." Albert Einstein_**
+****
+****
+# Important warning! If you get an error of bounds are bigger than 1 or something like that please ask it. The fault is not mine here all blame to albumentations. Anyway, if so, please open an issue . I will help. Definetely I will ! 
+
+#
+
+
+
+
+
+# I will show bunch of images. Nothing else. You can find all of the images in the images folder
+
+_Ok. Let's see what we got.Left one is the augmented (I know you are not stupid but rules maaan rules ! ) and the right one the original_. 
+
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/0.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/1.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/2.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/3.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/4.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/5.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/15.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/12.png?raw=true)
+#
+![Alb](https://github.com/abdullahbas/Data-Augmentation/blob/main/Albumentations/images/17.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
