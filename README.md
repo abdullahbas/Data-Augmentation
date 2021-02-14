@@ -1,6 +1,7 @@
 ﻿# Here I showed augmentation  of images with and without bounding boxes using PyTorch, Tensorflow, Albumentations and Imgaug. 
 # Enjoy !
-# You can find bbox augmentation outputs in imgaug and albumentations folders. I looked bbox augmentation on tensorflow and PyTorch but I couldn't find any. May be there is not but I am not sure. I think someone who wants to create CV models should use PyTorch+Albumentations.
+#
+You can find bbox augmentation outputs in imgaug and albumentations folders. I looked bbox augmentation on tensorflow and PyTorch but I couldn't find any. May be there is not but I am not sure. I think someone who wants to create CV models should use PyTorch+Albumentations. Also, I have to say that you shouldn't use that much of augmentation. I set the probabilities of augmentations relatively high because of the visualization purpose of this repo. If you use that much augmentation your model will converge very slow. Furthermore, I am not sure if it will become more robust or worser. 
 **
 Augmentation is a very effective method to make your method more robust.  As a matter of fact if you try to create models that Works quite well you should consider to use data augmentation. 
 #
